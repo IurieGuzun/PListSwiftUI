@@ -13,6 +13,7 @@
 		8A673E2E25BCA5FA003A9C74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A673E2D25BCA5FA003A9C74 /* Assets.xcassets */; };
 		8A673E3125BCA5FA003A9C74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A673E3025BCA5FA003A9C74 /* Preview Assets.xcassets */; };
 		8A673E3425BCA5FA003A9C74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A673E3225BCA5FA003A9C74 /* LaunchScreen.storyboard */; };
+		8A673E3C25BCA615003A9C74 /* PictureCoordinates.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8A673E3B25BCA615003A9C74 /* PictureCoordinates.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8A673E3025BCA5FA003A9C74 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8A673E3325BCA5FA003A9C74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A673E3525BCA5FA003A9C74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A673E3B25BCA615003A9C74 /* PictureCoordinates.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PictureCoordinates.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8A673E2D25BCA5FA003A9C74 /* Assets.xcassets */,
 				8A673E3225BCA5FA003A9C74 /* LaunchScreen.storyboard */,
 				8A673E3525BCA5FA003A9C74 /* Info.plist */,
+				8A673E3B25BCA615003A9C74 /* PictureCoordinates.plist */,
 				8A673E2F25BCA5FA003A9C74 /* Preview Content */,
 			);
 			path = PListSwiftUI;
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A673E3425BCA5FA003A9C74 /* LaunchScreen.storyboard in Resources */,
+				8A673E3C25BCA615003A9C74 /* PictureCoordinates.plist in Resources */,
 				8A673E3125BCA5FA003A9C74 /* Preview Assets.xcassets in Resources */,
 				8A673E2E25BCA5FA003A9C74 /* Assets.xcassets in Resources */,
 			);
